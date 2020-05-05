@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="7b0f60d1-269a-4898-af41-88fac66e7f1d" name="Tubaraum">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>
