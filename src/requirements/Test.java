@@ -10,7 +10,7 @@ import java.io.IOException;
  * @version 1.0
  * @since April 07, 2020
  */
-public class test {
+public class Test {
     /**
      * class of tests, it may be that the test links have expired or are invalid
      *
